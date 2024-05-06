@@ -1,0 +1,34 @@
+{
+    "productos": [
+        {
+            "titulo": "Bautismo",
+            "precio": 200,
+            "descripcion": "Sesión de fotos para el bautismo de tu hijo.",
+            "img": "img/images (1).jpeg"
+        },
+        {
+            "titulo": "Cumpleaños",
+            "precio": 4000,
+            "descripcion": "Captura los mejores momentos de tu fiesta de cumpleaños.",
+            "img": "img/fotografia-primer-ano-exterior-1-00.jpg"
+        },
+        {
+            "titulo": "Casamiento",
+            "precio": 3000,
+            "descripcion": "Servicio fotográfico completo para tu boda.",
+            "img": "img/28061553517-e51204985a-o_5_273984-157533123513030.jpeg"
+        },
+        {
+            "titulo": "Egresados",
+            "precio": 3500,
+            "descripcion": "Sesión de fotos para conmemorar tu graduación.",
+            "img": "img/3289dd9d5627bd754532b42394d441d2.jpg"
+        },
+        {
+            "titulo": "Sesión de Fotos",
+            "precio": 2000,
+            "descripcion": "Sesión de fotos personalizada según tus preferencias.",
+            "img": "img/fotografia-primer-ano-exterior-1-00.jpg"
+        }
+    ]
+}
